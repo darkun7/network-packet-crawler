@@ -1,0 +1,8 @@
+blinker==1.7.0
+certifi==2025.5.7
+charset-normalizer==3.3.2
+idna==3.7
+requests==2.31.0
+selenium==4.20.0
+selenium-wire==5.1.0
+urllib3==2.2.1
